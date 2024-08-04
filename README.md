@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Abhishek123kumar
-- 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently learning javascript , nodejs and flutter
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Abhishek Kumar, a graduate of IIT Guwahati '24 batch.
+- 👀 I’m interested in Data Structures and Algorithms, Competitive Programming and Development.
+- 🌱 I’m proficient in C++,JAVA, Javascript.
+- My tech skills include React, NodeJS, MySQL, MongoDB and AWS services(s3/Lambda/sqs/dynamoDB).
+- 💞️ I’m looking to collaborate on openSource projects.
+- I have done internship as software developer at Amazon for two months and an internship as full stack developer at QAInfinty, an early stage startup for two months.
+- Currently I have joined as founding engineer at AQUMEN Labs where we are building product to automate the testing industries.
 - 📫 How to reach me chsianabhishekiitg@gmail.com
 
 <!---
